@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rugby Scorer</string>
+    <string name="team_A">South Africa</string>
+    <string name="team_B">New Zealand</string>
+</resources>
